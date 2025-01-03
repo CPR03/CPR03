@@ -66,7 +66,7 @@ I'm a Frontend Developer creating engaging user experiences and building innovat
 
 <div align="center" style="display: flex; justify-content: center; gap: 10px;">
   <img width="400" src="https://github-readme-stats.vercel.app/api?username=cpr03&show_icons=true&theme=tokyonight&hide_border=true&border_radius=10" alt="GitHub Stats" />
-  <img width="310" src="https://github-readme-stats.vercel.app/api/top-langs/?username=cpr03&layout=compact&theme=tokyonight&hide_border=true&border_radius=10" alt="Top Languages" />
+  <img width="305" src="https://github-readme-stats.vercel.app/api/top-langs/?username=cpr03&layout=compact&theme=tokyonight&hide_border=true&border_radius=10" alt="Top Languages" />
 </div>
 
 ---
