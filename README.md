@@ -1,6 +1,6 @@
-# <div class="developer">
-##   Christian Rosales: Frontend Architect
-# </div>
+# &lt;div class="developer"&gt;
+## Christian Rosales: Frontend Architect
+# &lt;/div&gt;
 
 <div align="center">
   
