@@ -9,7 +9,7 @@
 </div>
 
 ## About Me
-I'm a Frontend Developer passionate about creating engaging user experiences and building innovative web solutions. With a diverse skill set spanning multiple technologies, I bring ideas to life through clean, efficient code.
+I'm a Frontend Developer creating engaging user experiences and building innovative web solutions. With a diverse skill set spanning multiple technologies.
 
 ## 🛠️ Tech Stack
 
@@ -66,24 +66,11 @@ I'm a Frontend Developer passionate about creating engaging user experiences and
 
 <div align="center" style="display: flex; justify-content: center; gap: 10px;">
   <img width="400" src="https://github-readme-stats.vercel.app/api?username=cpr03&show_icons=true&theme=tokyonight&hide_border=true&border_radius=10" alt="GitHub Stats" />
-  <img width="400" src="https://github-readme-stats.vercel.app/api/top-langs/?username=cpr03&layout=compact&theme=tokyonight&hide_border=true&border_radius=10" alt="Top Languages" />
-</div>
-
-## 📫 Get in Touch
-<div align="center">
-  <a href="mailto:christianpaulr.rosales@gmail.com">
-    <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
-  </a>
-  <a href="https://www.linkedin.com/in/christian-rosales-0549b9343">
-    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
-  </a>
-  <a href="https://twitter.com/sssipr">
-    <img src="https://img.shields.io/badge/X-000000?style=for-the-badge&logo=x&logoColor=white" alt="X" />
-  </a>
+  <img width="300" src="https://github-readme-stats.vercel.app/api/top-langs/?username=cpr03&layout=compact&theme=tokyonight&hide_border=true&border_radius=10" alt="Top Languages" />
 </div>
 
 ---
 
 <div align="center">
-  <i>Let's connect and build something amazing together!</i>
+  <i>C.P.R.</i>
 </div>
