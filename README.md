@@ -4,15 +4,15 @@
 
 <div align="center">
   
-<div style="display: flex; align-items: center; gap: 8px; justify-content: center;">
+<div style="display: flex; align-items: center; gap: 10px; justify-content: center;">
   <a href="https://www.linkedin.com/in/cpr03/" style="text-decoration: none;">
-    <img src="https://skillicons.dev/icons?i=linkedin" height="30" alt="linkedin"/>
+    <img src="https://skillicons.dev/icons?i=linkedin" alt="linkedin"/>
   </a>
   <a href="mailto:your.email@gmail.com" style="text-decoration: none;">
-    <img src="https://skillicons.dev/icons?i=gmail" height="30" alt="gmail"/>
+    <img src="https://skillicons.dev/icons?i=gmail" alt="gmail"/>
   </a>
   <a href="https://instagram.com/sssipr" style="text-decoration: none;">
-    <img src="https://skillicons.dev/icons?i=instagram" height="30" alt="instagram"/>
+    <img src="https://skillicons.dev/icons?i=instagram" alt="instagram"/>
   </a>
 </div>
 
