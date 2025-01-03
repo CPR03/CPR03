@@ -66,13 +66,13 @@ I'm a Frontend Developer creating engaging user experiences and building innovat
 
 <div align="center">
   <!-- GitHub Stats Card -->
-  <img src="https://github-readme-stats-cpr.vercel.app/api?username=cpr03&show_icons=true&theme=tokyonight&hide_border=true&border_radius=10&include_all_commits=true&count_private=true" alt="GitHub Stats" />
-  <!-- Historical Languages -->
-  <img height="250" src="https://github-readme-stats-cpr.vercel.app/api/top-langs/?username=cpr03&layout=compact&theme=tokyonight&hide_border=true&border_radius=10&langs_count=15&hide=javascript,typescript,vue,svelte,html,python,php" alt="Historical Languages" />
-  <!-- Current Tech Stack -->
-  <img height="250" src="https://github-readme-stats-cpr.vercel.app/api/top-langs/?username=cpr03&layout=compact&theme=tokyonight&hide_border=true&border_radius=10&langs_count=15&hide=java,css,blade,dart" alt="Current Tech Stack" />
+  <img height="220" src="https://github-readme-stats-cpr.vercel.app/api?username=cpr03&show_icons=true&theme=tokyonight&hide_border=true&border_radius=10&include_all_commits=true" alt="GitHub Stats" />
+  <!-- Most Used Languages -->
+  <img height="220" src="https://github-readme-stats-cpr.vercel.app/api/top-langs/?username=cpr03&layout=compact&theme=tokyonight&hide_border=true&border_radius=10&langs_count=15&hide=java,css" alt="Top Languages" />
+  <!-- Most Used Languages -->
+  <img height="250" src="https://github-readme-stats-cpr.vercel.app/api/top-langs/?username=cpr03&layout=compact&theme=tokyonight&hide_border=true&border_radius=10&langs_count=15&hide=java,css" alt="Top Languages" />
   <!-- GitHub Streak Stats -->
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=cpr03&theme=tokyonight&hide_border=true&border_radius=10&count_private=true" alt="GitHub Streak" />
+  <img height="250" src="https://github-readme-streak-stats.herokuapp.com/?user=cpr03&theme=tokyonight&hide_border=true&border_radius=10&count_private=true" alt="GitHub Streak" />
   <!-- GitHub Activity Graph -->
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=cpr03&theme=react-dark&hide_border=true&radius=10&custom_title=Contribution%20Graph%20(Including%20Private%20Contributions)" alt="Contribution Graph" />
   <!-- GitHub Trophies -->
