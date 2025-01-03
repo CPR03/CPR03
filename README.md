@@ -1,6 +1,6 @@
-```<div class="developer">```
-## Christian Rosales ("CPR")
-```</div>```
+`<div class="developer">`
+# Christian Rosales ("CPR") 
+`</div>`
 
 <div align="center">
   
