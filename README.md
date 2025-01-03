@@ -4,9 +4,17 @@
 
 <div align="center">
   
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/christian-rosales-0549b9343)
-[![X](https://img.shields.io/badge/X-000000?style=for-the-badge&logo=x&logoColor=white)](https://twitter.com/sssipr)
-[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?style=for-the-badge&logo=Instagram&logoColor=white)](https://instagram.com/sssipr)
+<div style="display: flex; align-items: center; gap: 8px; justify-content: center;">
+  <a href="https://www.linkedin.com/in/cpr03/" style="text-decoration: none;">
+    <img src="https://skillicons.dev/icons?i=linkedin" height="30" alt="linkedin"/>
+  </a>
+  <a href="mailto:your.email@gmail.com" style="text-decoration: none;">
+    <img src="https://skillicons.dev/icons?i=gmail" height="30" alt="gmail"/>
+  </a>
+  <a href="https://instagram.com/sssipr" style="text-decoration: none;">
+    <img src="https://skillicons.dev/icons?i=instagram" height="30" alt="instagram"/>
+  </a>
+</div>
 
 </div>
 
@@ -55,7 +63,7 @@ I'm a Frontend Developer crafting performant, user-centric web applications.
 
 ### Tools & Productivity
 <div align="left">
-  <img src="https://skillicons.dev/icons?i=figma,ps,blender,postman" height="40" alt="tools"/>
+  <img src="https://skillicons.dev/icons?i=figma,ps,blender,postman,vite,vscode,npm,androidstudio" height="40" alt="tools"/>
   <img src="https://img.shields.io/badge/Canva-%2300C4CC.svg?style=for-the-badge&logo=Canva&logoColor=white" height="40" alt="canva"/>
   <img src="https://img.shields.io/badge/Notion-%23000000.svg?style=for-the-badge&logo=notion&logoColor=white" height="40" alt="notion"/>
 </div>
