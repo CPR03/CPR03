@@ -16,73 +16,56 @@ I'm a Frontend Developer crafting performant, user-centric web applications.
 ## 🛠️ Tech Stack
 
 ### Frontend Development
-![Svelte](https://img.shields.io/badge/svelte-%23f1413d.svg?style=for-the-badge&logo=svelte&logoColor=white)
-![SvelteKit](https://img.shields.io/badge/SvelteKit-%23FF3E00.svg?style=for-the-badge&logo=svelte&logoColor=white)
-![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB)
-![Next.js](https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=next.js&logoColor=white)
-![Vue.js](https://img.shields.io/badge/Vue.js-4FC08D?style=for-the-badge&logo=vue.js&logoColor=white)
-![TypeScript](https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white)
-![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)
-![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white)
+<div align="left">
+  <img src="https://skillicons.dev/icons?i=svelte,react,nextjs,vue,ts,js,html,css" height="40" alt="frontend stack"/>
+  <img src="https://img.shields.io/badge/SvelteKit-%23FF3E00.svg?style=for-the-badge&logo=svelte&logoColor=white" height="40" alt="sveltekit"/>
+</div>
 
 ### UI Frameworks & Libraries
-![TailwindCSS](https://img.shields.io/badge/tailwindcss-%2338B2AC.svg?style=for-the-badge&logo=tailwind-css&logoColor=white)
-![NativeWind](https://img.shields.io/badge/NativeWind-38BDF8?style=for-the-badge&logo=tailwindcss&logoColor=white)
-![DaisyUI](https://img.shields.io/badge/daisyUI-5A0EF8?style=for-the-badge&logo=daisyui&logoColor=white)
-![shadcn/ui](https://img.shields.io/badge/shadcn/ui-000000?style=for-the-badge&logo=shadcnui&logoColor=white)
-![Bootstrap](https://img.shields.io/badge/bootstrap-%238511FA.svg?style=for-the-badge&logo=bootstrap&logoColor=white)
-![Quasar](https://img.shields.io/badge/Quasar-16B7FB?style=for-the-badge&logo=quasar&logoColor=black)
-![Qt Designer](https://img.shields.io/badge/Qt%20Designer-%2341CD52.svg?style=for-the-badge&logo=qt&logoColor=white)
-![Chart.js](https://img.shields.io/badge/Chart.js-FF6384?style=for-the-badge&logo=chart.js&logoColor=white)
+<div align="left">
+  <img src="https://skillicons.dev/icons?i=tailwind,bootstrap,qt" height="40" alt="ui frameworks"/>
+  <img src="https://img.shields.io/badge/NativeWind-38BDF8?style=for-the-badge&logo=tailwindcss&logoColor=white" height="40" alt="nativewind"/>
+  <img src="https://img.shields.io/badge/daisyUI-5A0EF8?style=for-the-badge&logo=daisyui&logoColor=white" height="40" alt="daisyui"/>
+  <img src="https://img.shields.io/badge/shadcn/ui-000000?style=for-the-badge&logo=shadcnui&logoColor=white" height="40" alt="shadcn/ui"/>
+  <img src="https://img.shields.io/badge/Quasar-16B7FB?style=for-the-badge&logo=quasar&logoColor=black" height="40" alt="quasar"/>
+  <img src="https://img.shields.io/badge/Chart.js-FF6384?style=for-the-badge&logo=chart.js&logoColor=white" height="40" alt="chartjs"/>
+</div>
 
 ### Mobile Development
-![React Native](https://img.shields.io/badge/react_native-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB)
-![Flutter](https://img.shields.io/badge/Flutter-%2302569B.svg?style=for-the-badge&logo=Flutter&logoColor=white)
-![Kotlin](https://img.shields.io/badge/kotlin-%237F52FF.svg?style=for-the-badge&logo=kotlin&logoColor=white)
-![Swift](https://img.shields.io/badge/swift-F54A2A?style=for-the-badge&logo=swift&logoColor=white)
+<div align="left">
+  <img src="https://skillicons.dev/icons?i=react,flutter,kotlin,swift" height="40" alt="mobile development"/>
+</div>
 
 ### Backend & Languages
-![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
-![Django](https://img.shields.io/badge/django-%23092E20.svg?style=for-the-badge&logo=django&logoColor=white)
-![Laravel](https://img.shields.io/badge/laravel-%23FF2D20.svg?style=for-the-badge&logo=laravel&logoColor=white)
-![CodeIgniter](https://img.shields.io/badge/CodeIgniter-%23EF4223.svg?style=for-the-badge&logo=codeIgniter&logoColor=white)
-![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white)
-![C](https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white)
-![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white)
-![Express.js](https://img.shields.io/badge/express.js-%23404d59.svg?style=for-the-badge&logo=express&logoColor=%2361DAFB)
+<div align="left">
+  <img src="https://skillicons.dev/icons?i=python,django,laravel,java,c,nodejs,express" height="40" alt="backend stack"/>
+  <img src="https://img.shields.io/badge/CodeIgniter-%23EF4223.svg?style=for-the-badge&logo=codeIgniter&logoColor=white" height="40" alt="codeigniter"/>
+</div>
 
 ### Databases & Cloud
-![Supabase](https://img.shields.io/badge/Supabase-3ECF8E?style=for-the-badge&logo=supabase&logoColor=white)
-![Firebase](https://img.shields.io/badge/firebase-%23039BE5.svg?style=for-the-badge&logo=firebase)
-![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white)
-![MongoDB Atlas](https://img.shields.io/badge/MongoDB%20Atlas-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white)
-![PostgreSQL](https://img.shields.io/badge/postgres-%23316192.svg?style=for-the-badge&logo=postgresql&logoColor=white)
-![MySQL](https://img.shields.io/badge/mysql-%2300f.svg?style=for-the-badge&logo=mysql&logoColor=white)
-![Vercel](https://img.shields.io/badge/Vercel-000000?style=for-the-badge&logo=vercel&logoColor=white)
+<div align="left">
+  <img src="https://skillicons.dev/icons?i=supabase,firebase,mongodb,postgres,mysql,vercel" height="40" alt="databases and cloud"/>
+  <img src="https://img.shields.io/badge/MongoDB%20Atlas-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white" height="40" alt="mongodb atlas"/>
+</div>
 
 ### IoT & Hardware
-![Arduino](https://img.shields.io/badge/Arduino-00979D?style=for-the-badge&logo=Arduino&logoColor=white)
+<div align="left">
+  <img src="https://skillicons.dev/icons?i=arduino" height="40" alt="iot and hardware"/>
+</div>
 
 ### Tools & Productivity
-![Figma](https://img.shields.io/badge/figma-%23F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white)
-![Adobe Photoshop](https://img.shields.io/badge/adobe%20photoshop-%2331A8FF.svg?style=for-the-badge&logo=adobe%20photoshop&logoColor=white)
-![Blender](https://img.shields.io/badge/blender-%23F5792A.svg?style=for-the-badge&logo=blender&logoColor=white)
-![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white)
-![Canva](https://img.shields.io/badge/Canva-%2300C4CC.svg?style=for-the-badge&logo=Canva&logoColor=white)
-![Notion](https://img.shields.io/badge/Notion-%23000000.svg?style=for-the-badge&logo=notion&logoColor=white)
+<div align="left">
+  <img src="https://skillicons.dev/icons?i=figma,ps,blender,postman" height="40" alt="tools"/>
+  <img src="https://img.shields.io/badge/Canva-%2300C4CC.svg?style=for-the-badge&logo=Canva&logoColor=white" height="40" alt="canva"/>
+  <img src="https://img.shields.io/badge/Notion-%23000000.svg?style=for-the-badge&logo=notion&logoColor=white" height="40" alt="notion"/>
+</div>
 
 ## 📊 GitHub Stats
 
 <div align="center">
-  <!-- GitHub Stats Card -->
   <img height="220" src="https://github-readme-stats-cpr.vercel.app/api?username=cpr03&show_icons=true&theme=tokyonight&hide_border=true&border_radius=10&include_all_commits=true" alt="GitHub Stats" />
-  <!-- Most Used Languages -->
   <img height="220" src="https://github-readme-stats-cpr.vercel.app/api/top-langs/?username=cpr03&layout=compact&theme=tokyonight&hide_border=true&border_radius=10&langs_count=15&hide=java,css" alt="Top Languages" />
-  <!-- GitHub Streak Stats -->
   <img height="250" src="https://github-readme-streak-stats.herokuapp.com/?user=cpr03&theme=tokyonight&hide_border=true&border_radius=10&count_private=true" alt="GitHub Streak" />
-  <!-- GitHub Activity Graph -->
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=cpr03&theme=react-dark&hide_border=true&radius=10&custom_title=Contribution%20Graph%20(Including%20Private%20Contributions)" alt="Contribution Graph" />
-  <!-- GitHub Trophies -->
   <img src="https://github-profile-trophy-cpr.vercel.app/?username=cpr03&row=10&column=5&theme=discord&no-frame=true&column=7&margin-w=5&margin-h=5" alt="GitHub Trophies" />
 </div>
