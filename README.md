@@ -74,7 +74,7 @@ I'm a Frontend Developer creating engaging user experiences and building innovat
   <!-- GitHub Activity Graph -->
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=cpr03&theme=react-dark&hide_border=true&radius=10&custom_title=Contribution%20Graph%20(Including%20Private%20Contributions)" alt="Contribution Graph" />
   <!-- GitHub Trophies -->
-  <img src="https://github-profile-trophy.vercel.app/?username=cpr03&theme=discord&no-frame=true&column=7&margin-w=5&margin-h=5&count_private=true" alt="GitHub Trophies" />
+  <img src="https://github-profile-trophy-cpr.vercel.app/?username=cpr03&row=10&column=5&theme=discord&no-frame=true&column=7&margin-w=5&margin-h=5" alt="GitHub Trophies" />
 </div>
 
 
