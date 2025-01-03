@@ -76,7 +76,7 @@ I'm a Frontend Developer creating engaging user experiences and building innovat
   <!-- GitHub Trophies -->
   <img src="https://github-profile-trophy.vercel.app/?username=cpr03&theme=discord&no-frame=true&column=7&margin-w=5&margin-h=5" alt="GitHub Trophies" />
 </div>
----
+
 
 <div align="center">
   <i>C.P.R.</i>
