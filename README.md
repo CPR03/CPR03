@@ -1,4 +1,6 @@
-# Hi there! 👋 I'm Christian Rosales   
+# <div class="developer">
+##   Christian Rosales: Frontend Architect
+# </div>
 
 <div align="center">
   
