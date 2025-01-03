@@ -66,9 +66,9 @@ I'm a Frontend Developer creating engaging user experiences and building innovat
 
 <div align="center">
   <!-- GitHub Stats Card -->
-  <img height="165" src="https://github-readme-stats-sigma-five.vercel.app/api?username=cpr03&show_icons=true&theme=tokyonight&hide_border=true&border_radius=10&include_all_commits=true&count_private=true" alt="GitHub Stats" />
+  <img height="165" src="https://github-readme-stats-cpr.vercel.app/api?username=cpr03&show_icons=true&theme=tokyonight&hide_border=true&border_radius=10&include_all_commits=true&count_private=true" alt="GitHub Stats" />
   <!-- Most Used Languages -->
-  <img height="165" src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=cpr03&layout=compact&theme=tokyonight&hide_border=true&border_radius=10&langs_count=8&count_private=true" alt="Top Languages" />
+  <img height="165" src="https://github-readme-stats-cpr.vercel.app/api/top-langs/?username=cpr03&layout=compact&theme=tokyonight&hide_border=true&border_radius=10&langs_count=8&count_private=true" alt="Top Languages" />
   <!-- GitHub Streak Stats -->
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=cpr03&theme=tokyonight&hide_border=true&border_radius=10&count_private=true" alt="GitHub Streak" />
   <!-- GitHub Activity Graph -->
