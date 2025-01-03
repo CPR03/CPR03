@@ -68,7 +68,7 @@ I'm a Frontend Developer creating engaging user experiences and building innovat
   <!-- GitHub Stats Card -->
   <img height="250" src="https://github-readme-stats-cpr.vercel.app/api?username=cpr03&show_icons=true&theme=tokyonight&hide_border=true&border_radius=10&include_all_commits=true" alt="GitHub Stats" />
   <!-- Most Used Languages -->
-  <img height="250" src="https://github-readme-stats-cpr.vercel.app/api/top-langs/?username=cpr03&layout=compact&theme=tokyonight&hide_border=true&border_radius=10&langs_count=15" alt="Top Languages" />
+  <img height="250" src="https://github-readme-stats-cpr.vercel.app/api/top-langs/?username=cpr03&layout=compact&theme=tokyonight&hide_border=true&border_radius=10&langs_count=15&hide=java" alt="Top Languages" />
   <!-- GitHub Streak Stats -->
   <img height="250" src="https://github-readme-streak-stats.herokuapp.com/?user=cpr03&theme=tokyonight&hide_border=true&border_radius=10&count_private=true" alt="GitHub Streak" />
   <!-- GitHub Activity Graph -->
