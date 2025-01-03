@@ -74,6 +74,5 @@ I'm a Frontend Developer crafting performant, user-centric web applications.
   <img height="220" src="https://github-readme-stats-cpr.vercel.app/api?username=cpr03&show_icons=true&theme=tokyonight&hide_border=true&border_radius=10&include_all_commits=true" alt="GitHub Stats" />
   <img height="220" src="https://github-readme-stats-cpr.vercel.app/api/top-langs/?username=cpr03&layout=compact&theme=tokyonight&hide_border=true&border_radius=10&langs_count=15&hide=java,css" alt="Top Languages" />
   <img height="250" src="https://github-readme-streak-stats.herokuapp.com/?user=cpr03&theme=tokyonight&hide_border=true&border_radius=10&count_private=true" alt="GitHub Streak" />
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=cpr03&theme=react-dark&hide_border=true&radius=10&custom_title=Contribution%20Graph%20(Including%20Private%20Contributions)" alt="Contribution Graph" />
   <img src="https://github-profile-trophy-cpr.vercel.app/?username=cpr03&row=10&column=5&theme=discord&no-frame=true&column=7&margin-w=5&margin-h=5" alt="GitHub Trophies" />
 </div>
