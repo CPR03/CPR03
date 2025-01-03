@@ -1,6 +1,4 @@
-# &lt;div class="developer"&gt;
-## Christian Rosales: Frontend Architect
-# &lt;/div&gt;
+## ```<div class="developer">``` Christian Rosales ("CPR")  ```</div>```
 
 <div align="center">
   
