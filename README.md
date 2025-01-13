@@ -68,6 +68,7 @@ I'm a Frontend Developer crafting performant, user-centric web applications.
   <img src="https://img.shields.io/badge/Notion-%23000000.svg?style=for-the-badge&logo=notion&logoColor=white" height="40" alt="notion"/>
 </div>
 
+<!--
 ## 📊 GitHub Stats
 
 <div align="center">
@@ -76,3 +77,4 @@ I'm a Frontend Developer crafting performant, user-centric web applications.
   <img height="250" src="https://github-readme-streak-stats.herokuapp.com/?user=cpr03&theme=tokyonight&hide_border=true&border_radius=10&count_private=true" alt="GitHub Streak" />
   <img src="https://github-profile-trophy-cpr.vercel.app/?username=cpr03&row=10&column=5&theme=discord&no-frame=true&column=7&margin-w=5&margin-h=5" alt="GitHub Trophies" />
 </div>
+-->
