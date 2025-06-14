@@ -46,7 +46,7 @@ I'm a Frontend Developer crafting performant, user-centric web applications.
 
 ### Backend & Languages
 <div align="left">
-  <img src="https://skillicons.dev/icons?i=python,django,laravel,java,c,nodejs,express,cs" height="40" alt="backend stack"/>
+  <img src="https://skillicons.dev/icons?i=python,django,laravel,java,c,nodejs,express,cs,dotnet" height="40" alt="backend stack"/>
   <img src="https://img.shields.io/badge/CodeIgniter-%23EF4223.svg?style=for-the-badge&logo=codeIgniter&logoColor=white" height="40" alt="codeigniter"/>
 </div>
 
