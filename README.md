@@ -25,7 +25,7 @@ I'm a Frontend Developer crafting performant, user-centric web applications.
 
 ### Frontend Development
 <div align="left">
-  <img src="https://skillicons.dev/icons?i=svelte,react,nextjs,vue,ts,js,html,css" height="40" alt="frontend stack"/>
+  <img src="https://skillicons.dev/icons?i=svelte,react,nextjs,vue,nuxtjs,ts,js,html,css" height="40" alt="frontend stack"/>
   <img src="https://img.shields.io/badge/SvelteKit-%23FF3E00.svg?style=for-the-badge&logo=svelte&logoColor=white" height="40" alt="sveltekit"/>
 </div>
 
