@@ -19,7 +19,7 @@
 </div>
 
 ## About Me
-I'm a Frontend Developer crafting performant, user-centric web applications.
+AI Software Engineer
 
 ## 🛠️ Tech Stack
 
