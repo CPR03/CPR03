@@ -8,18 +8,20 @@
   <a href="https://www.linkedin.com/in/cpr03/" style="text-decoration: none;">
     <img src="https://skillicons.dev/icons?i=linkedin" alt="linkedin"/>
   </a>
+  &nbsp
+  &nbsp
   <a href="mailto:your.email@gmail.com" style="text-decoration: none;">
     <img src="https://skillicons.dev/icons?i=gmail" alt="gmail"/>
   </a>
-  <a href="https://instagram.com/sssipr" style="text-decoration: none;">
+  <!-- <a href="https://instagram.com/sssipr" style="text-decoration: none;">
     <img src="https://skillicons.dev/icons?i=instagram" alt="instagram"/>
-  </a>
+  </a> -->
 </div>
 
 </div>
 
 ## About Me
-AI Software Engineer
+AI Software Engineer specializing in production-level AI agent development with expertise in autonomous planning and dynamic tool orchestration. Experienced in building scalable, user-centric web and mobile applications using modern frameworks (SvelteKit and Nuxt). Led teams to develop applications adopted by a university, improving efficiency, management, and quality assurance outcomes. Graduated as Summa Cum Laude (BSIT | Manuel S. Enverga University Foundation) with proven record of transforming ideas into production-ready applications and AI-powered solutions.
 
 ## 🛠️ Tech Stack
 
