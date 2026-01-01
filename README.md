@@ -25,6 +25,12 @@ AI Software Engineer specializing in production-level AI agent development with 
 
 ## 🛠️ Tech Stack
 
+### Agent Frameworks & Orchestration
+<div align="left"> <img src="https://img.shields.io/badge/LangChain-0A0A0A?style=for-the-badge&logo=chainlink&logoColor=white" height="40" alt="LangChain"/> <img src="https://img.shields.io/badge/LangGraph-1F2937?style=for-the-badge&logo=graphql&logoColor=white" height="40" alt="LangGraph"/> <img src="https://img.shields.io/badge/OpenAI%20Agents-412991?style=for-the-badge&logo=openai&logoColor=white" height="40" alt="OpenAI Agents"/> </div>
+
+### Automation, Voice & Integrations
+<div align="left"> <img src="https://img.shields.io/badge/n8n-EA4B71?style=for-the-badge&logo=n8n&logoColor=white" height="40" alt="n8n"/> <img src="https://img.shields.io/badge/Retell-0F172A?style=for-the-badge&logo=googleassistant&logoColor=white" height="40" alt="Retell AI"/> </div>
+
 ### Frontend Development
 <div align="left">
   <img src="https://skillicons.dev/icons?i=svelte,react,nextjs,vue,nuxtjs,ts,js,html,css" height="40" alt="frontend stack"/>
@@ -66,6 +72,7 @@ AI Software Engineer specializing in production-level AI agent development with 
 ### Tools & Productivity
 <div align="left">
   <img src="https://skillicons.dev/icons?i=figma,ps,blender,postman,vite,vscode,npm,androidstudio" height="40" alt="tools"/>
+  <img src="https://img.shields.io/badge/Claude%20Code-18181B?style=for-the-badge&logo=anthropic&logoColor=white" height="40" alt="claude code"/>
   <img src="https://img.shields.io/badge/Canva-%2300C4CC.svg?style=for-the-badge&logo=Canva&logoColor=white" height="40" alt="canva"/>
   <img src="https://img.shields.io/badge/Notion-%23000000.svg?style=for-the-badge&logo=notion&logoColor=white" height="40" alt="notion"/>
 </div>
