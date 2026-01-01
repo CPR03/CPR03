@@ -61,6 +61,7 @@ AI Software Engineer specializing in production-level AI agent development with 
 ### Databases & Cloud
 <div align="left">
   <img src="https://skillicons.dev/icons?i=supabase,firebase,mongodb,postgres,mysql,vercel" height="40" alt="databases and cloud"/>
+  <img src="https://img.shields.io/badge/Railway-0B0D0E?style=for-the-badge&logo=railway&logoColor=white" height="40" alt="railway"/>
   <img src="https://img.shields.io/badge/MongoDB%20Atlas-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white" height="40" alt="mongodb atlas"/>
 </div>
 
