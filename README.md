@@ -26,10 +26,20 @@ AI Software Engineer specializing in production-level AI agent development with 
 ## 🛠️ Tech Stack
 
 ### Agent Frameworks & Orchestration
-<div align="left"> <img src="https://img.shields.io/badge/LangChain-0A0A0A?style=for-the-badge&logo=chainlink&logoColor=white" height="40" alt="LangChain"/> <img src="https://img.shields.io/badge/LangGraph-1F2937?style=for-the-badge&logo=graphql&logoColor=white" height="40" alt="LangGraph"/> <img src="https://img.shields.io/badge/OpenAI%20Agents-412991?style=for-the-badge&logo=openai&logoColor=white" height="40" alt="OpenAI Agents"/> </div>
+<div align="left">
+  <img src="https://img.shields.io/badge/LangChain-0A0A0A?style=for-the-badge&logo=chainlink&logoColor=white" height="40" alt="LangChain"/>
+  <img src="https://img.shields.io/badge/LangGraph-1F2937?style=for-the-badge&logo=graphql&logoColor=white" height="40" alt="LangGraph"/>
+  <img src="https://img.shields.io/badge/OpenAI%20Agents-412991?style=for-the-badge&logo=openai&logoColor=white" height="40" alt="OpenAI Agents"/>
+  <img src="https://img.shields.io/badge/browser--use-111827?style=for-the-badge&logo=googlechrome&logoColor=white" height="40" alt="browser-use"/>
+</div>
+
 
 ### Automation, Voice & Integrations
-<div align="left"> <img src="https://img.shields.io/badge/n8n-EA4B71?style=for-the-badge&logo=n8n&logoColor=white" height="40" alt="n8n"/> <img src="https://img.shields.io/badge/Retell-0F172A?style=for-the-badge&logo=googleassistant&logoColor=white" height="40" alt="Retell AI"/> </div>
+<div align="left">
+  <img src="https://img.shields.io/badge/n8n-EA4B71?style=for-the-badge&logo=n8n&logoColor=white" height="40" alt="n8n"/>
+  <img src="https://img.shields.io/badge/Retell-0F172A?style=for-the-badge&logo=googleassistant&logoColor=white" height="40" alt="Retell AI"/>
+  <img src="https://img.shields.io/badge/Deepgram-0A2540?style=for-the-badge&logo=deepgram&logoColor=white" height="40" alt="Deepgram"/>
+</div>
 
 ### Frontend Development
 <div align="left">
