@@ -29,7 +29,7 @@ AI Software Engineer specializing in production-level AI agent development with 
 <div align="left">
   <img src="https://img.shields.io/badge/LangChain-0A0A0A?style=for-the-badge&logo=chainlink&logoColor=white" height="40" alt="LangChain"/>
   <img src="https://img.shields.io/badge/LangGraph-1F2937?style=for-the-badge&logo=graphql&logoColor=white" height="40" alt="LangGraph"/>
-  <img src="https://img.shields.io/badge/OpenAI%20Agents-412991?style=for-the-badge&logo=openai&logoColor=white" height="40" alt="OpenAI Agents"/>
+  <img src="https://img.shields.io/badge/OpenAI%20Agents-ffffff?style=for-the-badge&logo=openai-gym&logoColor=000000" height="40" />
   <img src="https://img.shields.io/badge/browser--use-111827?style=for-the-badge&logo=googlechrome&logoColor=white" height="40" alt="browser-use"/>
 </div>
 
