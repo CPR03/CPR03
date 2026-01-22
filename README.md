@@ -21,7 +21,7 @@
 </div>
 
 ## About Me
-AI Software Engineer specializing in production-level AI agent development with expertise in autonomous planning and dynamic tool orchestration. Experienced in building scalable, user-centric web and mobile applications using modern frameworks (SvelteKit and Nuxt). Led teams to develop applications adopted by a university, improving efficiency, management, and quality assurance outcomes. Graduated as Summa Cum Laude (BSIT | Manuel S. Enverga University Foundation) with proven record of transforming ideas into production-ready applications and AI-powered solutions.
+AI Software Engineer specializing in production-level AI agents development with expertise in autonomous planning and dynamic tool orchestration. Experienced in building scalable, user-centric web and mobile applications using modern frameworks (SvelteKit and Nuxt). Led teams to develop applications adopted by a university, improving efficiency, management, and quality assurance outcomes. Graduated as Summa Cum Laude (BSIT | Manuel S. Enverga University Foundation) with proven record of transforming ideas into production-ready applications and AI-powered solutions.
 
 ## 🛠️ Tech Stack
 
